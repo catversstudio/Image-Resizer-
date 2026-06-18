@@ -1,6 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /api/
-Disallow: /admin/
-
-Sitemap: https://image-resizer.vercel.app/sitemap.xml
